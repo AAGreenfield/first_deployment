@@ -1,8 +1,8 @@
-h1 {
-    font-size: 100px;
-    color: rgb(247, 247, 247);
+body {
+    background-color:azure;
 }
 
-body {
-    background-color: olive;
+#UESpan, #PESpan {
+    color:rgb(255, 17, 0)
 }
+
